@@ -1,4 +1,4 @@
-- Hi, I’m Rodrigo
+- Hi, I’m Rodrigo, I'm 22 and live in São Paulo, Brasil
 - 👀 I’m interested in knowledge, if you have it and want to share with someone, talk to me!
 - 🌱 I’m currently learning a bunch of stuff :P
   - .NET, Vue.js, Laravel, Flutter, Node and other technologies to get a sense of what I enjoy!
