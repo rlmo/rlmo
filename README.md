@@ -9,7 +9,7 @@
 <head>
 </head>
   <body style="width:100%; height:100%; margin:0;">
-    <a href="https://github.com/rlmo/resume/blob/main/Rodrigo%20L.%20M.%20Oliveira%20CV.pdf" style="width:100%; height:100%;" frameborder="0"> My Resume here</a>
+    <a href="https://github.com/rlmo/resume" style="width:100%; height:100%;" frameborder="0"> My Resume here</a>
   </body>
 </html>
 <!---
